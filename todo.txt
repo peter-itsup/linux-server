@@ -1,6 +1,0 @@
-1. Install docker.io on the server 
-2. Figure out which variables are necessary for the setup
-3. Read input and store in the relevant variables
-4. Run "docker run <container> -d" for each container
-5. Print out relevant ports for confirming status
-6. Write a file with relevant login info for each service 
