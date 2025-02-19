@@ -7,10 +7,10 @@ This script can be deployed on any debian based server in order to quickly set u
 Transfer the script to the destination server using any preferred protocol. SCP is a good option for secure transfer. 
 
 Make sure the script is executable by running:
-$ chmod +x werbserver-setupscript.sh 
+    $ chmod +x werbserver-setupscript.sh 
 
 Run the script as sudo: 
-$ sudo ./webserver-setupscript.sh 
+    $ sudo ./webserver-setupscript.sh 
 
 And wait for it to finish. 
 
